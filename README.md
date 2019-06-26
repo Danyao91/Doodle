@@ -1,2 +1,1 @@
-# Doodle
-react project
+## My React Project
